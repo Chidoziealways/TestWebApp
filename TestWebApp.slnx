@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GameProtocol/GameProtocol.csproj" />
+  <Project Path="GameServer/GameServer.csproj" />
+  <Project Path="WebClient/WebClient.csproj" />
+  <Project Path="WebServer/WebServer.csproj" />
+</Solution>
